@@ -1,0 +1,524 @@
+2021-10-19 07:25:02 pid:103357 Workerman[demo.php] start in DEBUG mode
+2021-10-19 07:27:04 pid:103357 Workerman[demo.php] stopping ...
+2021-10-19 07:27:06 pid:103357 worker[none:103361] exit with status 9
+2021-10-19 07:27:06 pid:103357 worker[none:103362] exit with status 9
+2021-10-19 07:27:06 pid:103357 worker[none:103363] exit with status 9
+2021-10-19 07:27:06 pid:103357 worker[none:103364] exit with status 9
+2021-10-19 07:27:06 pid:103357 Workerman[demo.php] has been stopped
+2021-10-19 07:29:06 pid:104992 Workerman[demo.php] start in DEBUG mode
+2021-10-19 07:58:59 pid:104992 Workerman[demo.php] stopping ...
+2021-10-19 07:59:01 pid:104992 worker[none:104997] exit with status 9
+2021-10-19 07:59:01 pid:104992 worker[none:104996] exit with status 9
+2021-10-19 07:59:01 pid:104992 worker[none:104998] exit with status 9
+2021-10-19 07:59:01 pid:104992 worker[none:104999] exit with status 9
+2021-10-19 07:59:01 pid:104992 Workerman[demo.php] has been stopped
+2021-10-19 07:59:03 pid:117645 Workerman[demo.php] start in DEBUG mode
+2021-10-19 08:19:37 pid:117645 Workerman[demo.php] stopping ...
+2021-10-19 08:19:39 pid:117645 worker[none:117657] exit with status 9
+2021-10-19 08:19:39 pid:117645 worker[none:117655] exit with status 9
+2021-10-19 08:19:39 pid:117645 worker[none:117656] exit with status 9
+2021-10-19 08:19:39 pid:117645 worker[none:117658] exit with status 9
+2021-10-19 08:19:39 pid:117645 Workerman[demo.php] has been stopped
+2021-10-19 08:19:40 pid:126630 Workerman[demo.php] start in DEBUG mode
+2021-10-19 08:31:16 pid:126630 Workerman[demo.php] stopping ...
+2021-10-19 08:31:18 pid:126630 worker[none:126634] exit with status 9
+2021-10-19 08:31:18 pid:126630 worker[none:126635] exit with status 9
+2021-10-19 08:31:18 pid:126630 worker[none:126636] exit with status 9
+2021-10-19 08:31:18 pid:126630 worker[none:126637] exit with status 9
+2021-10-19 08:31:18 pid:126630 Workerman[demo.php] has been stopped
+2021-10-19 08:31:19 pid:1091 Workerman[demo.php] start in DEBUG mode
+2021-10-19 09:37:05 pid:1091 Workerman[demo.php] stopping ...
+2021-10-19 09:37:07 pid:1091 worker[none:1099] exit with status 9
+2021-10-19 09:37:07 pid:1091 worker[none:1096] exit with status 9
+2021-10-19 09:37:07 pid:1091 worker[none:1097] exit with status 9
+2021-10-19 09:37:07 pid:1091 worker[none:1098] exit with status 9
+2021-10-19 09:37:07 pid:1091 Workerman[demo.php] has been stopped
+2021-10-19 09:37:08 pid:29432 Workerman[demo.php] start in DEBUG mode
+2021-10-19 09:38:13 pid:29432 Workerman[demo.php] stopping ...
+2021-10-19 09:38:15 pid:29432 worker[none:29436] exit with status 9
+2021-10-19 09:38:15 pid:29432 worker[none:29437] exit with status 9
+2021-10-19 09:38:15 pid:29432 worker[none:29438] exit with status 9
+2021-10-19 09:38:15 pid:29432 worker[none:29439] exit with status 9
+2021-10-19 09:38:15 pid:29432 Workerman[demo.php] has been stopped
+2021-10-19 09:38:16 pid:29929 Workerman[demo.php] start in DEBUG mode
+2021-10-19 09:40:17 pid:29929 Workerman[demo.php] stopping ...
+2021-10-19 09:40:20 pid:29929 worker[none:29933] exit with status 9
+2021-10-19 09:40:20 pid:29929 worker[none:29934] exit with status 9
+2021-10-19 09:40:20 pid:29929 worker[none:29935] exit with status 9
+2021-10-19 09:40:20 pid:29929 worker[none:29936] exit with status 9
+2021-10-19 09:40:20 pid:29929 Workerman[demo.php] has been stopped
+2021-10-19 09:40:20 pid:30846 Workerman[demo.php] start in DEBUG mode
+2021-10-19 09:44:52 pid:30846 Workerman[demo.php] stopping ...
+2021-10-19 09:44:54 pid:30846 worker[none:30850] exit with status 9
+2021-10-19 09:44:54 pid:30846 worker[none:30851] exit with status 9
+2021-10-19 09:44:54 pid:30846 worker[none:30852] exit with status 9
+2021-10-19 09:44:54 pid:30846 worker[none:30853] exit with status 9
+2021-10-19 09:44:54 pid:30846 Workerman[demo.php] has been stopped
+2021-10-19 09:44:56 pid:32744 Workerman[demo.php] start in DEBUG mode
+2021-10-20 00:23:56 pid:41767 Workerman[demo.php] start in DEBUG mode
+2021-10-20 00:23:56 pid:41767 Workerman[demo.php] already running
+2021-10-20 00:25:29 pid:42407 Workerman[demo.php] stop 
+2021-10-20 00:25:29 pid:42407 Workerman[demo.php] not run
+2021-10-20 00:25:43 pid:42568 Workerman[demo.php] start in DEBUG mode
+2021-10-20 00:28:17 pid:43683 Workerman[demo.php] start in DEBUG mode
+2021-10-20 00:32:58 pid:43683 Workerman[demo.php] stopping ...
+2021-10-20 00:32:58 pid:43683 Workerman[demo.php] stopping ...
+2021-10-20 00:32:58 pid:43683 Workerman[demo.php] stopping ...
+2021-10-20 00:33:00 pid:43683 worker[none:43687] exit with status 9
+2021-10-20 00:33:00 pid:43683 worker[none:43688] exit with status 9
+2021-10-20 00:33:00 pid:43683 worker[none:43689] exit with status 9
+2021-10-20 00:33:00 pid:43683 worker[none:43690] exit with status 9
+2021-10-20 00:33:00 pid:43683 Workerman[demo.php] has been stopped
+2021-10-20 00:33:01 pid:45639 Workerman[demo.php] start in DEBUG mode
+2021-10-20 00:33:29 pid:45639 Workerman[demo.php] stopping ...
+2021-10-20 00:33:31 pid:45639 worker[none:45660] exit with status 9
+2021-10-20 00:33:31 pid:45639 worker[none:45658] exit with status 9
+2021-10-20 00:33:31 pid:45639 worker[none:45659] exit with status 9
+2021-10-20 00:33:31 pid:45639 worker[none:45661] exit with status 9
+2021-10-20 00:33:31 pid:45639 Workerman[demo.php] has been stopped
+2021-10-20 00:33:32 pid:45869 Workerman[demo.php] start in DEBUG mode
+2021-10-20 00:35:24 pid:45869 Workerman[demo.php] stopping ...
+2021-10-20 00:35:26 pid:45869 worker[none:45873] exit with status 9
+2021-10-20 00:35:26 pid:45869 worker[none:45874] exit with status 9
+2021-10-20 00:35:26 pid:45869 worker[none:45875] exit with status 9
+2021-10-20 00:35:26 pid:45869 worker[none:45876] exit with status 9
+2021-10-20 00:35:26 pid:45869 Workerman[demo.php] has been stopped
+2021-10-20 00:35:27 pid:46698 Workerman[demo.php] start in DEBUG mode
+2021-10-20 00:40:40 pid:46698 Workerman[demo.php] stopping ...
+2021-10-20 00:40:42 pid:46698 worker[none:46705] exit with status 9
+2021-10-20 00:40:42 pid:46698 worker[none:46702] exit with status 9
+2021-10-20 00:40:42 pid:46698 worker[none:46703] exit with status 9
+2021-10-20 00:40:42 pid:46698 worker[none:46704] exit with status 9
+2021-10-20 00:40:42 pid:46698 Workerman[demo.php] has been stopped
+2021-10-20 00:40:43 pid:48982 Workerman[demo.php] start in DEBUG mode
+2021-10-20 00:58:32 pid:48982 Workerman[demo.php] stopping ...
+2021-10-20 00:58:34 pid:48982 worker[none:48986] exit with status 9
+2021-10-20 00:58:34 pid:48982 worker[none:48987] exit with status 9
+2021-10-20 00:58:34 pid:48982 worker[none:48988] exit with status 9
+2021-10-20 00:58:34 pid:48982 worker[none:48989] exit with status 9
+2021-10-20 00:58:34 pid:48982 Workerman[demo.php] has been stopped
+2021-10-20 00:58:38 pid:56481 Workerman[demo.php] start in DEBUG mode
+2021-10-20 01:00:46 pid:56481 Workerman[demo.php] stopping ...
+2021-10-20 01:00:48 pid:56481 worker[none:56485] exit with status 9
+2021-10-20 01:00:48 pid:56481 worker[none:56486] exit with status 9
+2021-10-20 01:00:48 pid:56481 worker[none:56487] exit with status 9
+2021-10-20 01:00:48 pid:56481 worker[none:56488] exit with status 9
+2021-10-20 01:00:48 pid:56481 Workerman[demo.php] has been stopped
+2021-10-20 01:00:49 pid:57568 Workerman[demo.php] start in DEBUG mode
+2021-10-20 01:03:17 pid:57568 Workerman[demo.php] stopping ...
+2021-10-20 01:03:19 pid:57568 worker[none:57574] exit with status 9
+2021-10-20 01:03:19 pid:57568 worker[none:57572] exit with status 9
+2021-10-20 01:03:19 pid:57568 worker[none:57573] exit with status 9
+2021-10-20 01:03:19 pid:57568 worker[none:57575] exit with status 9
+2021-10-20 01:03:19 pid:57568 Workerman[demo.php] has been stopped
+2021-10-20 01:03:19 pid:58720 Workerman[demo.php] start in DEBUG mode
+2021-10-20 01:34:41 pid:58720 Workerman[demo.php] stopping ...
+2021-10-20 01:34:41 pid:58720 Workerman[demo.php] stopping ...
+2021-10-20 01:34:43 pid:58720 worker[none:58724] exit with status 9
+2021-10-20 01:34:43 pid:58720 worker[none:58725] exit with status 9
+2021-10-20 01:34:43 pid:58720 worker[none:58726] exit with status 9
+2021-10-20 01:34:43 pid:58720 worker[none:58727] exit with status 9
+2021-10-20 01:34:43 pid:58720 Workerman[demo.php] has been stopped
+2021-10-20 01:34:45 pid:71830 Workerman[demo.php] start in DEBUG mode
+2021-10-20 01:37:56 pid:71830 Workerman[demo.php] stopping ...
+2021-10-20 01:37:58 pid:71830 worker[none:71834] exit with status 9
+2021-10-20 01:37:58 pid:71830 Workerman[demo.php] has been stopped
+2021-10-20 01:37:59 pid:73143 Workerman[demo.php] start in DEBUG mode
+2021-10-20 01:38:03 pid:73147 ArgumentCountError: Too few arguments to function {closure}(), 1 passed in /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php on line 2484 and exactly 2 expected in /mnt/hgfs/share/lifecycle/demo.php:14
+Stack trace:
+#0 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(2484): {closure}(Object(Workerman\Connection\TcpConnection))
+#1 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Events/Select.php(294): Workerman\Worker->acceptConnection(Resource id #19)
+#2 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(2419): Workerman\Events\Select->loop()
+#3 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1543): Workerman\Worker->run()
+#4 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1373): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#5 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1347): Workerman\Worker::forkWorkersForLinux()
+#6 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(542): Workerman\Worker::forkWorkers()
+#7 /mnt/hgfs/share/lifecycle/demo.php(52): Workerman\Worker::runAll()
+#8 {main}
+2021-10-20 01:49:38 pid:73143 Workerman[demo.php] stopping ...
+2021-10-20 01:49:38 pid:73143 worker[none:73147] exit with status 139
+2021-10-20 01:49:38 pid:73143 Workerman[demo.php] has been stopped
+2021-10-20 01:49:40 pid:78142 Workerman[demo.php] start in DEBUG mode
+2021-10-20 01:49:53 pid:78146 Exception: You can't send(array) to client, you need to convert it to a string.  in /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Protocols/Websocket.php:230
+Stack trace:
+#0 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Connection/TcpConnection.php(321): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 /mnt/hgfs/share/lifecycle/demo.php(43): Workerman\Connection\TcpConnection->send(Array)
+#2 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Connection/TcpConnection.php(638): {closure}(Object(Workerman\Connection\TcpConnection), Array)
+#3 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Events/Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #24)
+#4 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(2419): Workerman\Events\Select->loop()
+#5 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1543): Workerman\Worker->run()
+#6 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1373): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1347): Workerman\Worker::forkWorkersForLinux()
+#8 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(542): Workerman\Worker::forkWorkers()
+#9 /mnt/hgfs/share/lifecycle/demo.php(52): Workerman\Worker::runAll()
+#10 {main}
+2021-10-20 01:50:17 pid:78142 Workerman[demo.php] stopping ...
+2021-10-20 01:50:17 pid:78142 worker[none:78146] exit with status 139
+2021-10-20 01:50:17 pid:78142 Workerman[demo.php] has been stopped
+2021-10-20 01:50:17 pid:78456 Workerman[demo.php] start in DEBUG mode
+2021-10-20 01:56:06 pid:78456 Workerman[demo.php] stopping ...
+2021-10-20 01:56:08 pid:78456 worker[none:78460] exit with status 9
+2021-10-20 01:56:08 pid:78456 Workerman[demo.php] has been stopped
+2021-10-20 01:56:09 pid:80975 Workerman[demo.php] start in DEBUG mode
+2021-10-20 01:56:26 pid:80975 Workerman[demo.php] stopping ...
+2021-10-20 01:56:28 pid:80975 worker[none:80979] exit with status 9
+2021-10-20 01:56:28 pid:80975 Workerman[demo.php] has been stopped
+2021-10-20 01:56:29 pid:81050 Workerman[demo.php] start in DEBUG mode
+2021-10-20 02:20:00 pid:81050 Workerman[demo.php] stopping ...
+2021-10-20 02:20:02 pid:81050 worker[none:81054] exit with status 9
+2021-10-20 02:20:02 pid:81050 Workerman[demo.php] has been stopped
+2021-10-20 02:20:03 pid:91260 Workerman[demo.php] start in DEBUG mode
+2021-10-20 03:26:58 pid:91260 Workerman[demo.php] stopping ...
+2021-10-20 03:27:00 pid:91260 worker[none:91264] exit with status 9
+2021-10-20 03:27:00 pid:91260 Workerman[demo.php] has been stopped
+2021-10-20 03:27:01 pid:119550 Workerman[demo.php] start in DEBUG mode
+2021-10-20 05:32:54 pid:119550 Workerman[demo.php] stopping ...
+2021-10-20 05:32:56 pid:119550 worker[none:119554] exit with status 9
+2021-10-20 05:32:56 pid:119550 Workerman[demo.php] has been stopped
+2021-10-20 05:32:58 pid:43022 Workerman[demo.php] start in DEBUG mode
+2021-10-20 05:37:18 pid:43022 Workerman[demo.php] stopping ...
+2021-10-20 05:37:20 pid:43022 worker[none:43026] exit with status 9
+2021-10-20 05:37:20 pid:43022 Workerman[demo.php] has been stopped
+2021-10-20 05:37:21 pid:44904 Workerman[demo.php] start in DEBUG mode
+2021-10-20 05:47:53 pid:44904 Workerman[demo.php] stopping ...
+2021-10-20 05:47:55 pid:44904 worker[none:44908] exit with status 9
+2021-10-20 05:47:55 pid:44904 Workerman[demo.php] has been stopped
+2021-10-20 05:47:56 pid:49464 Workerman[demo.php] start in DEBUG mode
+2021-10-20 05:49:31 pid:49464 Workerman[demo.php] stopping ...
+2021-10-20 05:49:33 pid:49464 worker[none:49468] exit with status 9
+2021-10-20 05:49:33 pid:49464 Workerman[demo.php] has been stopped
+2021-10-20 05:49:34 pid:50097 Workerman[demo.php] start in DEBUG mode
+2021-10-20 05:51:09 pid:50097 Workerman[demo.php] stopping ...
+2021-10-20 05:51:11 pid:50097 worker[none:50101] exit with status 9
+2021-10-20 05:51:11 pid:50097 Workerman[demo.php] has been stopped
+2021-10-20 05:51:30 pid:50920 Workerman[demo.php] start in DEBUG mode
+2021-10-20 05:55:03 pid:50920 Workerman[demo.php] stopping ...
+2021-10-20 05:55:05 pid:50920 worker[none:50924] exit with status 9
+2021-10-20 05:55:05 pid:50920 Workerman[demo.php] has been stopped
+2021-10-20 05:55:27 pid:52704 Workerman[demo.php] start in DEBUG mode
+2021-10-20 05:58:42 pid:52704 Workerman[demo.php] stopping ...
+2021-10-20 05:58:44 pid:52704 worker[none:52708] exit with status 9
+2021-10-20 05:58:44 pid:52704 Workerman[demo.php] has been stopped
+2021-10-20 05:58:45 pid:54020 Workerman[demo.php] start in DEBUG mode
+2021-10-20 06:09:37 pid:54020 Workerman[demo.php] stopping ...
+2021-10-20 06:09:39 pid:54020 worker[none:54024] exit with status 9
+2021-10-20 06:09:39 pid:54020 Workerman[demo.php] has been stopped
+2021-10-20 06:09:40 pid:58810 Workerman[demo.php] start in DEBUG mode
+2021-10-20 06:11:23 pid:58810 Workerman[demo.php] stopping ...
+2021-10-20 06:11:25 pid:58810 worker[none:58814] exit with status 9
+2021-10-20 06:11:25 pid:58810 Workerman[demo.php] has been stopped
+2021-10-20 06:11:44 pid:59644 Workerman[demo.php] start in DEBUG mode
+2021-10-20 06:12:00 pid:59644 Workerman[demo.php] stopping ...
+2021-10-20 06:12:00 pid:59644 Workerman[demo.php] stopping ...
+2021-10-20 06:12:02 pid:59644 worker[none:59648] exit with status 9
+2021-10-20 06:12:02 pid:59644 Workerman[demo.php] has been stopped
+2021-10-20 06:12:03 pid:59836 Workerman[demo.php] start in DEBUG mode
+2021-10-20 06:23:57 pid:59836 Workerman[demo.php] stopping ...
+2021-10-20 06:23:59 pid:59836 worker[none:59840] exit with status 9
+2021-10-20 06:23:59 pid:59836 Workerman[demo.php] has been stopped
+2021-10-20 06:23:59 pid:64781 Workerman[demo.php] start in DEBUG mode
+2021-10-20 06:24:41 pid:64781 Workerman[demo.php] stopping ...
+2021-10-20 06:24:43 pid:64781 Workerman[demo.php] stopping ...
+2021-10-20 06:24:43 pid:64781 worker[none:64785] exit with status 9
+2021-10-20 06:24:43 pid:64781 Workerman[demo.php] has been stopped
+2021-10-20 06:24:44 pid:65228 Workerman[demo.php] start in DEBUG mode
+2021-10-20 06:28:26 pid:65228 Workerman[demo.php] stopping ...
+2021-10-20 06:28:28 pid:65228 worker[none:65232] exit with status 9
+2021-10-20 06:28:28 pid:65228 Workerman[demo.php] has been stopped
+2021-10-20 06:28:29 pid:66806 Workerman[demo.php] start in DEBUG mode
+2021-10-20 06:31:08 pid:66806 Workerman[demo.php] stopping ...
+2021-10-20 06:31:10 pid:66806 worker[none:66810] exit with status 9
+2021-10-20 06:31:10 pid:66806 Workerman[demo.php] has been stopped
+2021-10-20 06:31:10 pid:68001 Workerman[demo.php] start in DEBUG mode
+2021-10-20 06:32:23 pid:68001 Workerman[demo.php] stopping ...
+2021-10-20 06:32:23 pid:68001 Workerman[demo.php] stopping ...
+2021-10-20 06:32:24 pid:68001 Workerman[demo.php] stopping ...
+2021-10-20 06:32:25 pid:68001 worker[none:68005] exit with status 9
+2021-10-20 06:32:25 pid:68001 Workerman[demo.php] has been stopped
+2021-10-20 06:32:26 pid:68475 Workerman[demo.php] start in DEBUG mode
+2021-10-20 06:32:32 pid:68479 ArgumentCountError: Too few arguments to function {closure}(), 1 passed in /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Connection/TcpConnection.php on line 920 and exactly 2 expected in /mnt/hgfs/share/lifecycle/demo.php:73
+Stack trace:
+#0 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Connection/TcpConnection.php(920): {closure}(Object(Workerman\Connection\TcpConnection))
+#1 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Connection/TcpConnection.php(827): Workerman\Connection\TcpConnection->destroy()
+#2 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Protocols/Websocket.php(103): Workerman\Connection\TcpConnection->close('\x88\x02\x03\xE8', true)
+#3 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Connection/TcpConnection.php(601): Workerman\Protocols\Websocket::input('\x88\x82\x8E\xA8g \x8DA', Object(Workerman\Connection\TcpConnection))
+#4 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Events/Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #24)
+#5 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(2419): Workerman\Events\Select->loop()
+#6 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1543): Workerman\Worker->run()
+#7 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1373): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1347): Workerman\Worker::forkWorkersForLinux()
+#9 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(542): Workerman\Worker::forkWorkers()
+#10 /mnt/hgfs/share/lifecycle/demo.php(86): Workerman\Worker::runAll()
+#11 {main}
+2021-10-20 06:38:07 pid:68475 Workerman[demo.php] stopping ...
+2021-10-20 06:38:07 pid:68475 worker[none:68479] exit with status 139
+2021-10-20 06:38:07 pid:68475 Workerman[demo.php] has been stopped
+2021-10-20 06:38:08 pid:70904 Workerman[demo.php] start in DEBUG mode
+2021-10-20 06:38:27 pid:70904 Workerman[demo.php] stopping ...
+2021-10-20 06:38:29 pid:70904 worker[none:70908] exit with status 9
+2021-10-20 06:38:29 pid:70904 Workerman[demo.php] has been stopped
+2021-10-20 06:42:05 pid:72612 Workerman[demo.php] start in DEBUG mode
+2021-10-20 08:05:34 pid:72612 Workerman[demo.php] stopping ...
+2021-10-20 08:10:07 pid:72616 worker[72616] remains 0 connection(s)
+2021-10-20 08:10:32 pid:110479 Workerman[demo.php] start in DEBUG mode
+2021-10-20 08:10:32 pid:110479 Workerman[demo.php] already running
+2021-10-20 08:10:42 pid:110621 Workerman[demo.php] stop 
+2021-10-20 08:10:42 pid:110621 Workerman[demo.php] is stopping ...
+2021-10-20 08:10:42 pid:72612 Workerman[demo.php] stopping ...
+2021-10-20 08:10:42 pid:72612 worker[none:72616] exit with status 139
+2021-10-20 08:10:42 pid:72612 Workerman[demo.php] has been stopped
+2021-10-20 08:10:42 pid:110621 Workerman[demo.php] stop success
+2021-10-20 08:10:44 pid:110630 Workerman[demo.php] start in DEBUG mode
+2021-10-21 00:37:13 pid:27980 Workerman[demo.php] start in DEBUG mode
+2021-10-21 00:37:13 pid:27980 Workerman[demo.php] already running
+2021-10-21 00:38:04 pid:28469 Workerman[demo.php] stop 
+2021-10-21 00:38:04 pid:28469 Workerman[demo.php] is stopping ...
+2021-10-21 00:38:04 pid:110630 Workerman[demo.php] stopping ...
+2021-10-21 00:38:04 pid:110630 Workerman[demo.php] stopping ...
+2021-10-21 00:38:05 pid:110630 Workerman[demo.php] stopping ...
+2021-10-21 00:38:06 pid:110630 worker[none:110634] exit with status 9
+2021-10-21 00:38:06 pid:110630 worker[none:110635] exit with status 9
+2021-10-21 00:38:06 pid:110630 worker[none:110636] exit with status 9
+2021-10-21 00:38:06 pid:110630 worker[none:110637] exit with status 9
+2021-10-21 00:38:06 pid:110630 Workerman[demo.php] has been stopped
+2021-10-21 00:38:06 pid:28469 Workerman[demo.php] stop success
+2021-10-21 00:38:08 pid:28485 Workerman[demo.php] start in DEBUG mode
+2021-10-21 02:33:58 pid:28485 Workerman[demo.php] stopping ...
+2021-10-21 02:34:00 pid:28485 worker[none:28490] exit with status 9
+2021-10-21 02:34:00 pid:28485 worker[none:28489] exit with status 9
+2021-10-21 02:34:00 pid:28485 worker[none:28491] exit with status 9
+2021-10-21 02:34:00 pid:28485 worker[none:28492] exit with status 9
+2021-10-21 02:34:00 pid:28485 Workerman[demo.php] has been stopped
+2021-10-21 02:34:01 pid:78091 Workerman[demo.php] start in DEBUG mode
+2021-10-21 02:49:17 pid:78091 Workerman[demo.php] stopping ...
+2021-10-21 02:49:19 pid:78091 worker[none:78098] exit with status 9
+2021-10-21 02:49:19 pid:78091 worker[none:78096] exit with status 9
+2021-10-21 02:49:19 pid:78091 worker[none:78097] exit with status 9
+2021-10-21 02:49:19 pid:78091 worker[none:78099] exit with status 9
+2021-10-21 02:49:19 pid:78091 Workerman[demo.php] has been stopped
+2021-10-21 02:49:20 pid:84551 Workerman[demo.php] start in DEBUG mode
+2021-10-21 02:52:12 pid:84551 Workerman[demo.php] stopping ...
+2021-10-21 02:52:14 pid:84551 worker[none:84557] exit with status 9
+2021-10-21 02:52:14 pid:84551 worker[none:84555] exit with status 9
+2021-10-21 02:52:14 pid:84551 worker[none:84556] exit with status 9
+2021-10-21 02:52:14 pid:84551 worker[none:84558] exit with status 9
+2021-10-21 02:52:14 pid:84551 Workerman[demo.php] has been stopped
+2021-10-21 02:52:15 pid:85867 Workerman[demo.php] start in DEBUG mode
+2021-10-21 02:57:39 pid:85867 Workerman[demo.php] stopping ...
+2021-10-21 02:57:41 pid:85867 worker[none:85871] exit with status 9
+2021-10-21 02:57:41 pid:85867 worker[none:85872] exit with status 9
+2021-10-21 02:57:41 pid:85867 worker[none:85873] exit with status 9
+2021-10-21 02:57:41 pid:85867 worker[none:85874] exit with status 9
+2021-10-21 02:57:41 pid:85867 Workerman[demo.php] has been stopped
+2021-10-21 02:57:42 pid:88142 Workerman[demo.php] start in DEBUG mode
+2021-10-21 03:05:46 pid:88142 Workerman[demo.php] stopping ...
+2021-10-21 03:05:48 pid:88142 worker[none:88147] exit with status 9
+2021-10-21 03:05:48 pid:88142 worker[none:88146] exit with status 9
+2021-10-21 03:05:48 pid:88142 worker[none:88148] exit with status 9
+2021-10-21 03:05:48 pid:88142 worker[none:88149] exit with status 9
+2021-10-21 03:05:48 pid:88142 Workerman[demo.php] has been stopped
+2021-10-21 03:05:52 pid:91672 Workerman[demo.php] start in DEBUG mode
+2021-10-21 03:09:02 pid:91672 Workerman[demo.php] stopping ...
+2021-10-21 03:09:04 pid:91672 worker[none:91677] exit with status 9
+2021-10-21 03:09:04 pid:91672 worker[none:91676] exit with status 9
+2021-10-21 03:09:04 pid:91672 worker[none:91678] exit with status 9
+2021-10-21 03:09:04 pid:91672 worker[none:91679] exit with status 9
+2021-10-21 03:09:04 pid:91672 Workerman[demo.php] has been stopped
+2021-10-21 03:09:05 pid:93063 Workerman[demo.php] start in DEBUG mode
+2021-10-21 03:19:05 pid:93063 Workerman[demo.php] stopping ...
+2021-10-21 03:19:07 pid:93063 worker[none:93067] exit with status 9
+2021-10-21 03:19:07 pid:93063 worker[none:93068] exit with status 9
+2021-10-21 03:19:07 pid:93063 worker[none:93069] exit with status 9
+2021-10-21 03:19:07 pid:93063 worker[none:93070] exit with status 9
+2021-10-21 03:19:07 pid:93063 Workerman[demo.php] has been stopped
+2021-10-21 03:19:08 pid:97416 Workerman[demo.php] start in DEBUG mode
+2021-10-21 06:34:57 pid:97416 Workerman[demo.php] stopping ...
+2021-10-21 06:34:59 pid:97416 worker[none:97421] exit with status 9
+2021-10-21 06:34:59 pid:97416 worker[none:97420] exit with status 9
+2021-10-21 06:34:59 pid:97416 worker[none:97422] exit with status 9
+2021-10-21 06:34:59 pid:97416 worker[none:97423] exit with status 9
+2021-10-21 06:34:59 pid:97416 Workerman[demo.php] has been stopped
+2021-10-21 06:35:01 pid:50496 Workerman[demo.php] start in DEBUG mode
+2021-10-21 06:35:04 pid:50500 Error: Call to undefined method Workerman\Worker::send() in /mnt/hgfs/share/lifecycle/demo.php:22
+Stack trace:
+#0 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(2484): {closure}(Object(Workerman\Connection\TcpConnection))
+#1 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Events/Select.php(294): Workerman\Worker->acceptConnection(Resource id #19)
+#2 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(2419): Workerman\Events\Select->loop()
+#3 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1543): Workerman\Worker->run()
+#4 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1373): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#5 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1347): Workerman\Worker::forkWorkersForLinux()
+#6 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(542): Workerman\Worker::forkWorkers()
+#7 /mnt/hgfs/share/lifecycle/demo.php(83): Workerman\Worker::runAll()
+#8 {main}
+2021-10-21 06:35:04 pid:50500 Error: Call to undefined method Workerman\Worker::send() in /mnt/hgfs/share/lifecycle/demo.php:76
+Stack trace:
+#0 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Connection/TcpConnection.php(920): {closure}(Object(Workerman\Connection\TcpConnection))
+#1 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Connection/TcpConnection.php(827): Workerman\Connection\TcpConnection->destroy()
+#2 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(2444): Workerman\Connection\TcpConnection->close()
+#3 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1857): Workerman\Worker->stop()
+#4 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(2488): Workerman\Worker::stopAll(250, Object(Error))
+#5 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Events/Select.php(294): Workerman\Worker->acceptConnection(Resource id #19)
+#6 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(2419): Workerman\Events\Select->loop()
+#7 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1543): Workerman\Worker->run()
+#8 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1373): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#9 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1347): Workerman\Worker::forkWorkersForLinux()
+#10 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(542): Workerman\Worker::forkWorkers()
+#11 /mnt/hgfs/share/lifecycle/demo.php(83): Workerman\Worker::runAll()
+#12 {main}
+2021-10-21 06:37:26 pid:50502 Error: Call to undefined method Workerman\Worker::send() in /mnt/hgfs/share/lifecycle/demo.php:22
+Stack trace:
+#0 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(2484): {closure}(Object(Workerman\Connection\TcpConnection))
+#1 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Events/Select.php(294): Workerman\Worker->acceptConnection(Resource id #19)
+#2 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(2419): Workerman\Events\Select->loop()
+#3 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1543): Workerman\Worker->run()
+#4 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1373): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#5 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1347): Workerman\Worker::forkWorkersForLinux()
+#6 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(542): Workerman\Worker::forkWorkers()
+#7 /mnt/hgfs/share/lifecycle/demo.php(83): Workerman\Worker::runAll()
+#8 {main}
+2021-10-21 06:37:26 pid:50502 Error: Call to undefined method Workerman\Worker::send() in /mnt/hgfs/share/lifecycle/demo.php:76
+Stack trace:
+#0 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Connection/TcpConnection.php(920): {closure}(Object(Workerman\Connection\TcpConnection))
+#1 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Connection/TcpConnection.php(827): Workerman\Connection\TcpConnection->destroy()
+#2 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(2444): Workerman\Connection\TcpConnection->close()
+#3 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1857): Workerman\Worker->stop()
+#4 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(2488): Workerman\Worker::stopAll(250, Object(Error))
+#5 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Events/Select.php(294): Workerman\Worker->acceptConnection(Resource id #19)
+#6 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(2419): Workerman\Events\Select->loop()
+#7 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1543): Workerman\Worker->run()
+#8 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1373): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#9 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1347): Workerman\Worker::forkWorkersForLinux()
+#10 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(542): Workerman\Worker::forkWorkers()
+#11 /mnt/hgfs/share/lifecycle/demo.php(83): Workerman\Worker::runAll()
+#12 {main}
+2021-10-21 06:37:35 pid:50496 Workerman[demo.php] stopping ...
+2021-10-21 06:37:35 pid:50496 worker[none:50502] exit with status 139
+2021-10-21 06:37:35 pid:50496 worker[none:50500] exit with status 139
+2021-10-21 06:37:37 pid:50496 worker[none:50503] exit with status 9
+2021-10-21 06:37:37 pid:50496 worker[none:50501] exit with status 9
+2021-10-21 06:37:37 pid:50496 Workerman[demo.php] has been stopped
+2021-10-21 06:37:38 pid:51584 Workerman[demo.php] start in DEBUG mode
+2021-10-21 06:37:40 pid:51591 Exception: You can't send(array) to client, you need to convert it to a string.  in /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Protocols/Websocket.php:230
+Stack trace:
+#0 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Connection/TcpConnection.php(321): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 /mnt/hgfs/share/lifecycle/demo.php(33): Workerman\Connection\TcpConnection->send(Array)
+#2 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Connection/TcpConnection.php(638): {closure}(Object(Workerman\Connection\TcpConnection), '{"name":"12","i...')
+#3 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Events/Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #24)
+#4 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(2419): Workerman\Events\Select->loop()
+#5 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1543): Workerman\Worker->run()
+#6 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1373): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(1347): Workerman\Worker::forkWorkersForLinux()
+#8 /mnt/hgfs/share/lifecycle/vendor/workerman/workerman/Worker.php(542): Workerman\Worker::forkWorkers()
+#9 /mnt/hgfs/share/lifecycle/demo.php(64): Workerman\Worker::runAll()
+#10 {main}
+2021-10-21 06:38:48 pid:51584 Workerman[demo.php] stopping ...
+2021-10-21 06:38:48 pid:51584 worker[none:51591] exit with status 139
+2021-10-21 06:38:50 pid:51584 worker[none:51590] exit with status 9
+2021-10-21 06:38:50 pid:51584 worker[none:51588] exit with status 9
+2021-10-21 06:38:50 pid:51584 worker[none:51589] exit with status 9
+2021-10-21 06:38:50 pid:51584 Workerman[demo.php] has been stopped
+2021-10-21 06:38:51 pid:52077 Workerman[demo.php] start in DEBUG mode
+2021-10-21 06:47:06 pid:52077 Workerman[demo.php] stopping ...
+2021-10-21 06:47:08 pid:52077 worker[none:52083] exit with status 9
+2021-10-21 06:47:08 pid:52077 worker[none:52081] exit with status 9
+2021-10-21 06:47:08 pid:52077 worker[none:52082] exit with status 9
+2021-10-21 06:47:08 pid:52077 worker[none:52084] exit with status 9
+2021-10-21 06:47:08 pid:52077 Workerman[demo.php] has been stopped
+2021-10-21 06:47:08 pid:55736 Workerman[demo.php] start in DEBUG mode
+2021-10-21 06:49:42 pid:55736 Workerman[demo.php] stopping ...
+2021-10-21 06:49:44 pid:55736 worker[none:55740] exit with status 9
+2021-10-21 06:49:44 pid:55736 worker[none:55741] exit with status 9
+2021-10-21 06:49:44 pid:55736 worker[none:55742] exit with status 9
+2021-10-21 06:49:44 pid:55736 worker[none:55743] exit with status 9
+2021-10-21 06:49:44 pid:55736 Workerman[demo.php] has been stopped
+2021-10-21 06:49:45 pid:56753 Workerman[demo.php] start in DEBUG mode
+2021-10-21 06:51:49 pid:56753 Workerman[demo.php] stopping ...
+2021-10-21 06:51:51 pid:56753 worker[none:56759] exit with status 9
+2021-10-21 06:51:51 pid:56753 worker[none:56757] exit with status 9
+2021-10-21 06:51:51 pid:56753 worker[none:56758] exit with status 9
+2021-10-21 06:51:51 pid:56753 worker[none:56760] exit with status 9
+2021-10-21 06:51:51 pid:56753 Workerman[demo.php] has been stopped
+2021-10-21 06:51:54 pid:57707 Workerman[demo.php] stop 
+2021-10-21 06:51:54 pid:57707 Workerman[demo.php] not run
+2021-10-21 06:51:59 pid:57725 Workerman[demo.php] start in DEBUG mode
+2021-10-21 07:18:16 pid:57725 Workerman[demo.php] stopping ...
+2021-10-21 07:18:18 pid:57725 worker[none:57732] exit with status 9
+2021-10-21 07:18:18 pid:57725 worker[none:57729] exit with status 9
+2021-10-21 07:18:18 pid:57725 worker[none:57730] exit with status 9
+2021-10-21 07:18:18 pid:57725 worker[none:57731] exit with status 9
+2021-10-21 07:18:18 pid:57725 Workerman[demo.php] has been stopped
+2021-10-21 07:18:19 pid:69039 Workerman[demo.php] start in DEBUG mode
+2021-10-21 07:21:42 pid:69039 Workerman[demo.php] stopping ...
+2021-10-21 07:21:44 pid:69039 worker[none:69043] exit with status 9
+2021-10-21 07:21:44 pid:69039 Workerman[demo.php] has been stopped
+2021-10-21 07:21:45 pid:70339 Workerman[demo.php] stop 
+2021-10-21 07:21:45 pid:70339 Workerman[demo.php] not run
+2021-10-21 07:21:48 pid:70368 Workerman[demo.php] start in DEBUG mode
+2021-10-21 07:28:55 pid:70368 Workerman[demo.php] stopping ...
+2021-10-21 07:28:57 pid:70368 worker[none:70372] exit with status 9
+2021-10-21 07:28:57 pid:70368 Workerman[demo.php] has been stopped
+2021-10-21 07:28:58 pid:73766 Workerman[demo.php] start in DEBUG mode
+2021-10-21 07:41:01 pid:73766 Workerman[demo.php] stopping ...
+2021-10-21 07:41:03 pid:73766 worker[none:73770] exit with status 9
+2021-10-21 07:41:03 pid:73766 Workerman[demo.php] has been stopped
+2021-10-21 07:41:04 pid:79081 Workerman[demo.php] start in DEBUG mode
+2021-10-21 07:44:20 pid:79081 Workerman[demo.php] stopping ...
+2021-10-21 07:44:22 pid:79081 worker[none:79085] exit with status 9
+2021-10-21 07:44:22 pid:79081 Workerman[demo.php] has been stopped
+2021-10-21 07:44:24 pid:80351 Workerman[demo.php] start in DEBUG mode
+2021-10-21 07:50:07 pid:80351 Workerman[demo.php] stopping ...
+2021-10-21 07:50:09 pid:80351 worker[none:80356] exit with status 9
+2021-10-21 07:50:09 pid:80351 Workerman[demo.php] has been stopped
+2021-10-21 07:50:10 pid:82866 Workerman[demo.php] start in DEBUG mode
+2021-10-21 08:41:50 pid:82866 Workerman[demo.php] stopping ...
+2021-10-21 08:41:53 pid:82866 worker[none:82871] exit with status 9
+2021-10-21 08:41:53 pid:82866 Workerman[demo.php] has been stopped
+2021-10-21 08:41:53 pid:104919 Workerman[demo.php] start in DEBUG mode
+2021-10-21 08:44:11 pid:104919 Workerman[demo.php] stopping ...
+2021-10-21 08:44:13 pid:104919 worker[none:104923] exit with status 9
+2021-10-21 08:44:13 pid:104919 Workerman[demo.php] has been stopped
+2021-10-21 08:44:14 pid:105987 Workerman[demo.php] start in DEBUG mode
+2021-10-21 08:47:49 pid:105987 Workerman[demo.php] stopping ...
+2021-10-21 08:47:51 pid:105987 worker[none:105991] exit with status 9
+2021-10-21 08:47:51 pid:105987 Workerman[demo.php] has been stopped
+2021-10-21 08:47:52 pid:107473 Workerman[demo.php] start in DEBUG mode
+2021-10-21 08:48:19 pid:107473 Workerman[demo.php] stopping ...
+2021-10-21 08:48:21 pid:107473 worker[none:107477] exit with status 9
+2021-10-21 08:48:21 pid:107473 Workerman[demo.php] has been stopped
+2021-10-21 08:48:22 pid:107768 Workerman[demo.php] start in DEBUG mode
+2021-10-21 08:51:38 pid:107768 Workerman[demo.php] stopping ...
+2021-10-21 08:51:40 pid:107768 worker[none:107772] exit with status 9
+2021-10-21 08:51:40 pid:107768 Workerman[demo.php] has been stopped
+2021-10-21 08:51:41 pid:109084 Workerman[demo.php] start in DEBUG mode
+2021-10-21 08:52:38 pid:109084 Workerman[demo.php] stopping ...
+2021-10-21 08:52:39 pid:109084 Workerman[demo.php] stopping ...
+2021-10-21 08:52:39 pid:109084 Workerman[demo.php] stopping ...
+2021-10-21 08:52:40 pid:109084 worker[none:109088] exit with status 9
+2021-10-21 08:52:40 pid:109084 Workerman[demo.php] has been stopped
+2021-10-21 08:52:40 pid:109567 Workerman[demo.php] start in DEBUG mode
+2021-10-21 08:56:59 pid:109567 Workerman[demo.php] stopping ...
+2021-10-21 08:57:01 pid:109567 worker[none:109572] exit with status 9
+2021-10-21 08:57:01 pid:109567 Workerman[demo.php] has been stopped
+2021-10-21 08:57:03 pid:111415 Workerman[demo.php] start in DEBUG mode
+2021-10-21 08:58:15 pid:111415 Workerman[demo.php] stopping ...
+2021-10-21 08:58:15 pid:111415 Workerman[demo.php] stopping ...
+2021-10-21 08:58:17 pid:111415 worker[none:111437] exit with status 9
+2021-10-21 08:58:17 pid:111415 Workerman[demo.php] has been stopped
+2021-10-21 08:58:19 pid:111956 Workerman[demo.php] start in DEBUG mode
+2021-10-21 09:04:35 pid:31918 Workerman[demo.php] stopping ...
+2021-10-21 09:04:35 pid:31918 Workerman[demo.php] has been stopped
+2021-10-21 09:04:37 pid:21484 Workerman[demo.php] start in DEBUG mode
+2021-10-21 09:05:31 pid:21484 Workerman[demo.php] stopping ...
+2021-10-21 09:05:31 pid:21484 Workerman[demo.php] has been stopped
+2021-10-21 09:05:32 pid:21665 Workerman[demo.php] start in DEBUG mode
+2021-10-21 09:40:53 pid:21665 Workerman[demo.php] stopping ...
+2021-10-21 09:40:53 pid:21665 Workerman[demo.php] has been stopped
+2021-10-21 09:41:42 pid:28481 Workerman[demo.php] stop 
+2021-10-21 09:41:42 pid:28481 Workerman[demo.php] not run
+2021-10-21 09:41:52 pid:28499 Workerman[demo.php] start in DAEMON mode
+2021-10-22 01:08:39 pid:9963 Workerman[demo.php] stopping ...
+2021-10-22 01:08:41 pid:9963 worker[none:9967] exit with status 9
+2021-10-22 01:08:41 pid:9963 Workerman[demo.php] has been stopped
+2021-10-22 01:08:42 pid:30329 Workerman[demo.php] start in DEBUG mode
+2021-10-22 01:27:29 pid:30329 Workerman[demo.php] stopping ...
+2021-10-22 01:27:30 pid:30329 Workerman[demo.php] stopping ...
